@@ -20,13 +20,12 @@ Version Control: Git, GitHub
 
 **Results**
 Achieved MAE of 0.0021 and R² of 0.9998.
-Reduced delivery time prediction errors by 99%.
+Reduced delivery time prediction errors by 90% and delays by 25%.
 
 
 **Note**
 This repository is private. Proof of contributions and additional details are available upon request.
 
-This is simple, organized, and highlights your work effectively. Let me know if you’d like to add or adjust anything!
 
 
 
